@@ -1,0 +1,49 @@
+body{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+}
+.text{
+    color: black;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.text2{
+    color: black;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.Butao{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+#res{
+    border-radius: 20px;
+    height: 80px;
+    width: 280px;
+    background-color: #333;
+    color: white;
+}
+.resp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
